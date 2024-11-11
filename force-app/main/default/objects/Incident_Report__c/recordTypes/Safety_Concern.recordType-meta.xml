@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Safety_Concern</fullName>
+    <active>true</active>
+    <label>Safety Concern</label>
+    <picklistValues>
+        <picklist>Severity_Level__c</picklist>
+        <values>
+            <fullName>Value1</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Status__c</picklist>
+        <values>
+            <fullName>Archived</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Case Transferred</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Closed</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Dismissed</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>In Progress</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ongoing Monitoring</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Open</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pending Review</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Resolved</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Under Investigation</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Type_of_Incident__c</picklist>
+        <values>
+            <fullName>Abandonment</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Abuse %28Physical%2C Emotional%2C Sexual%29</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Behavioral Issues</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Child Labor</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Child Marriage</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Domestic Violence</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Educational Neglect</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Exploitation</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Medical Emergency</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Neglect</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Other</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Parental Incarceration</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Runaway%2FMissing Child</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Safety Concerns</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Substance Abuse</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>
