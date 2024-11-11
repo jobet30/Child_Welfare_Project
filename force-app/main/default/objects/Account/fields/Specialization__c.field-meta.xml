@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Specialization__c</fullName>
+    <externalId>false</externalId>
+    <label>Specialization</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Strength Training</fullName>
+                <default>false</default>
+                <label>Strength Training</label>
+            </value>
+            <value>
+                <fullName>Cardio Training</fullName>
+                <default>false</default>
+                <label>Cardio Training</label>
+            </value>
+            <value>
+                <fullName>Yoga</fullName>
+                <default>false</default>
+                <label>Yoga</label>
+            </value>
+            <value>
+                <fullName>Pilates</fullName>
+                <default>false</default>
+                <label>Pilates</label>
+            </value>
+            <value>
+                <fullName>Nutrition Coaching</fullName>
+                <default>false</default>
+                <label>Nutrition Coaching</label>
+            </value>
+            <value>
+                <fullName>Group Fitness</fullName>
+                <default>false</default>
+                <label>Group Fitness</label>
+            </value>
+            <value>
+                <fullName>Weight Loss</fullName>
+                <default>false</default>
+                <label>Weight Loss</label>
+            </value>
+            <value>
+                <fullName>Sports Conditioning</fullName>
+                <default>false</default>
+                <label>Sports Conditioning</label>
+            </value>
+            <value>
+                <fullName>Functional Training</fullName>
+                <default>false</default>
+                <label>Functional Training</label>
+            </value>
+            <value>
+                <fullName>Dance Fitness</fullName>
+                <default>false</default>
+                <label>Dance Fitness</label>
+            </value>
+            <value>
+                <fullName>Senior Fitness</fullName>
+                <default>false</default>
+                <label>Senior Fitness</label>
+            </value>
+            <value>
+                <fullName>Rehabilitation</fullName>
+                <default>false</default>
+                <label>Rehabilitation</label>
+            </value>
+            <value>
+                <fullName>Kettlebell Training</fullName>
+                <default>false</default>
+                <label>Kettlebell Training</label>
+            </value>
+            <value>
+                <fullName>HIIT (High-Intensity Interval Training)</fullName>
+                <default>false</default>
+                <label>HIIT (High-Intensity Interval Training)</label>
+            </value>
+            <value>
+                <fullName>Bodybuilding</fullName>
+                <default>false</default>
+                <label>Bodybuilding</label>
+            </value>
+            <value>
+                <fullName>Mindfulness and Meditation</fullName>
+                <default>false</default>
+                <label>Mindfulness and Meditation</label>
+            </value>
+            <value>
+                <fullName>Mobility and Flexibility</fullName>
+                <default>false</default>
+                <label>Mobility and Flexibility</label>
+            </value>
+            <value>
+                <fullName>Personal Training</fullName>
+                <default>false</default>
+                <label>Personal Training</label>
+            </value>
+            <value>
+                <fullName>Kids Fitness</fullName>
+                <default>false</default>
+                <label>Kids Fitness</label>
+            </value>
+            <value>
+                <fullName>Special Needs Fitness</fullName>
+                <default>false</default>
+                <label>Special Needs Fitness</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -5,6 +5,7 @@
 		<name>CustomField</name>
 	</types>
 	<types>
+        <members>Account</members>
 		<members>Assessment__c</members>
 		<members>Case</members>
 		<members>Crisis_Intervention__c</members>
