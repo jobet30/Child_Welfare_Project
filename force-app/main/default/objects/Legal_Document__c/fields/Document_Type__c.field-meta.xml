@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Document_Type__c</fullName>
+    <externalId>false</externalId>
+    <label>Document Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Adoption Papers</fullName>
+                <default>false</default>
+                <label>Adoption Papers</label>
+            </value>
+            <value>
+                <fullName>Background Check</fullName>
+                <default>false</default>
+                <label>Background Check</label>
+            </value>
+            <value>
+                <fullName>Case Plan</fullName>
+                <default>false</default>
+                <label>Case Plan</label>
+            </value>
+            <value>
+                <fullName>Child Support Agreement</fullName>
+                <default>false</default>
+                <label>Child Support Agreement</label>
+            </value>
+            <value>
+                <fullName>Court Order</fullName>
+                <default>false</default>
+                <label>Court Order</label>
+            </value>
+            <value>
+                <fullName>Custody Agreement</fullName>
+                <default>false</default>
+                <label>Custody Agreement</label>
+            </value>
+            <value>
+                <fullName>Financial Records</fullName>
+                <default>false</default>
+                <label>Financial Records</label>
+            </value>
+            <value>
+                <fullName>Foster Care Agreement</fullName>
+                <default>false</default>
+                <label>Foster Care Agreement</label>
+            </value>
+            <value>
+                <fullName>Incident Report</fullName>
+                <default>false</default>
+                <label>Incident Report</label>
+            </value>
+            <value>
+                <fullName>Medical Records</fullName>
+                <default>false</default>
+                <label>Medical Records</label>
+            </value>
+            <value>
+                <fullName>Parenting Plan</fullName>
+                <default>false</default>
+                <label>Parenting Plan</label>
+            </value>
+            <value>
+                <fullName>Parental Consent</fullName>
+                <default>false</default>
+                <label>Parental Consent</label>
+            </value>
+            <value>
+                <fullName>Police Report</fullName>
+                <default>false</default>
+                <label>Police Report</label>
+            </value>
+            <value>
+                <fullName>Psychological Evaluation</fullName>
+                <default>false</default>
+                <label>Psychological Evaluation</label>
+            </value>
+            <value>
+                <fullName>School Records</fullName>
+                <default>false</default>
+                <label>School Records</label>
+            </value>
+            <value>
+                <fullName>Social Worker Report</fullName>
+                <default>false</default>
+                <label>Social Worker Report</label>
+            </value>
+            <value>
+                <fullName>Safety Plan</fullName>
+                <default>false</default>
+                <label>Safety Plan</label>
+            </value>
+            <value>
+                <fullName>Termination of Parental Rights</fullName>
+                <default>false</default>
+                <label>Termination of Parental Rights</label>
+            </value>
+            <value>
+                <fullName>Visitation Agreement</fullName>
+                <default>false</default>
+                <label>Visitation Agreement</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
